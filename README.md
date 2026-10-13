@@ -8,6 +8,7 @@ Anotações em LaTeX e códigos de computação científica em Python e Maple (c
 </p>
 
 > **Disciplina:** 7600105 - Física Básica 1 <br>
+> **Professor(a):** Esmerindo de Sousa Bernardes <br>
 > **Instituição:** USP - Universidade de São Paulo
 
 <p align="center">
